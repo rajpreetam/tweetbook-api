@@ -1,0 +1,7 @@
+USERNAME_EXISTS = 'User with this username already exists'
+EMAIL_EXISTS = 'User with this email already exists'
+PASSWORD_MISMATCH = 'Passwords dis not matched'
+USER_CREATED = 'User created successfully'
+USER_FETCHED = 'User fetched successfully'
+PROFILE_FETCHED = 'Profile fetched successfully'
+VERIFY_EMAIL = 'Please check your email for verification'
